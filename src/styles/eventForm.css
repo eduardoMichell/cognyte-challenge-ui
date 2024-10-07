@@ -1,0 +1,47 @@
+.event-form .MuiOutlinedInput-root {
+  color: #ffffff;
+  background-color: #1e1e1e;
+}
+
+.event-form .MuiOutlinedInput-root:hover .MuiOutlinedInput-notchedOutline {
+  border-color: #ff9800;
+}
+
+.event-form .MuiOutlinedInput-root .MuiOutlinedInput-notchedOutline {
+  border-color: #ff9800;
+}
+
+.event-form .MuiSelect-root {
+  color: #ffffff;
+  background-color: #1e1e1e;
+}
+
+.event-form .MuiMenuItem-root {
+  color: #ffffff;
+  background-color: #1e1e1e;
+}
+
+.event-form .MuiMenuItem-root:hover {
+  background-color: #ff9800;
+}
+
+.event-form .MuiSelect-icon {
+  color: #ffffff;
+}
+
+.event-form .MuiInputAdornment-root .MuiSvgIcon-root {
+  color: #ffffff;
+}
+
+.event-form .MuiButton-root {
+  background-color: #ff9800;
+  color: #ffffff;
+}
+
+.event-form .MuiButton-root:hover {
+  background-color: #e68900;
+}
+
+::-webkit-calendar-picker-indicator {
+  filter: invert(1);
+}
